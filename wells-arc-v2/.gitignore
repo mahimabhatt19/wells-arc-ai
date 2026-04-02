@@ -1,0 +1,42 @@
+# Environment
+.env
+*.env
+
+# Database (don't commit real data)
+database/wells_arc.db
+
+# ML model files (regenerated on run)
+anomaly/isolation_forest.pkl
+anomaly/scaler.pkl
+
+# RAG index files (regenerated on run)
+assistant/faiss_index.pkl
+assistant/chunks.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml

@@ -1,0 +1,74 @@
+WELLS FARGO CUSTOMER FAQ - KNOWLEDGE BASE FOR WELLS ARC AI ASSISTANT
+
+=== ACCOUNT OPENING ===
+
+Q: How do I open a Wells Fargo checking account?
+A: You can open a Wells Fargo checking account online at wellsfargo.com, through the mobile app, or by visiting any Wells Fargo branch. You'll need a government-issued ID, your Social Security Number, and an initial deposit (minimum varies by account type). The process takes about 10-15 minutes online. You'll receive your debit card within 5-7 business days.
+
+Q: What documents do I need to open an account?
+A: To open a Wells Fargo account you need: (1) A valid government-issued photo ID such as a driver's license or passport, (2) Your Social Security Number or Individual Taxpayer Identification Number, (3) Your current address, (4) An initial deposit. For joint accounts, both account holders must provide ID and personal information.
+
+Q: What types of accounts does Wells Fargo offer?
+A: Wells Fargo offers several account types: Everyday Checking (standard account with monthly fee waived with qualifying activity), Clear Access Banking (no overdraft fees), Preferred Checking (for higher balances), Way2Save Savings, Platinum Savings, and various CD options. We also offer student accounts, business accounts, and teen accounts.
+
+Q: What is the minimum deposit to open an account?
+A: The minimum opening deposit for Wells Fargo Everyday Checking is $25. For savings accounts it's $25. Some premium accounts may require higher initial deposits. There is no minimum deposit for Clear Access Banking.
+
+=== FRAUD AND SECURITY ===
+
+Q: I see a suspicious charge on my account. What should I do?
+A: If you see a suspicious charge: (1) Do not panic — you are protected. (2) You can immediately flag or stop the transaction using Wells Arc's Smart Monitor tab. (3) Click "Mark as Unauthorized" on the transaction to initiate a dispute. (4) Our AI assistant will guide you through next steps, or you can connect with a live agent 24/7. Wells Fargo's Zero Liability protection means you won't be responsible for unauthorized transactions reported promptly.
+
+Q: What is Wells Fargo's fraud protection policy?
+A: Wells Fargo offers Zero Liability protection on all debit and credit card transactions. This means if your card is used without your permission, you won't be held responsible for those charges as long as you report them promptly. We monitor accounts 24/7 for suspicious activity and will alert you immediately if something looks unusual.
+
+Q: How do I dispute a transaction?
+A: To dispute a transaction: (1) Locate the transaction in Wells Arc's Smart Monitor tab. (2) Click "Mark as Unauthorized." (3) Our system will automatically initiate a dispute and a Wells Fargo specialist will follow up within 24 hours. Alternatively, call 1-800-869-3557 or visit a branch. Disputes are typically resolved within 10 business days. You may receive provisional credit within 5 business days.
+
+Q: What should I do if my debit card is lost or stolen?
+A: If your card is lost or stolen: (1) Immediately lock your card in the Wells Fargo app under Card Controls. (2) Report it lost or stolen by calling 1-800-869-3557. (3) We'll cancel your current card and send a replacement within 5-7 business days. You can also request expedited delivery for a fee. Any unauthorized transactions that occurred will be covered under Zero Liability protection.
+
+Q: How do I set up transaction alerts?
+A: In the Wells Fargo mobile app or online banking, go to Account Services > Alerts & Notifications. You can set up alerts for: transactions above a certain amount, international transactions, ATM withdrawals, low balance alerts, and more. Wells Arc also lets you set a personal threshold directly in the Smart Monitor tab.
+
+=== PORTAL AND APP NAVIGATION ===
+
+Q: How do I log into Wells Fargo online banking?
+A: Visit wellsfargo.com and click "Sign On" in the top right corner. Enter your username and password. If you haven't set up online banking, click "Enroll" and follow the steps. You'll need your account number, Social Security Number, and email address to enroll. For the mobile app, download "Wells Fargo Mobile" from the App Store or Google Play.
+
+Q: How do I reset my password?
+A: On the Wells Fargo sign-on page, click "Forgot Password?" Enter your username or account number and follow the verification steps. You'll receive a verification code via email or SMS. If you're locked out, call 1-800-869-3557 for assistance.
+
+Q: How do I transfer money between accounts?
+A: To transfer money: (1) Log into online banking or the app. (2) Click "Transfer & Pay" in the navigation menu. (3) Select your source and destination accounts. (4) Enter the amount and date. (5) Confirm the transfer. Transfers between Wells Fargo accounts are instant. External transfers take 1-3 business days.
+
+Q: How do I set up direct deposit?
+A: To set up direct deposit: (1) Log into online banking. (2) Go to Account Services > Direct Deposit. (3) Download or print your pre-filled direct deposit form with your routing and account numbers. (4) Submit this form to your employer. Your Wells Fargo routing number is 121042882 (for West Coast) or varies by region. You can find your specific routing number on your checks or in online banking.
+
+Q: How do I find my account and routing number?
+A: Your account and routing numbers are available in multiple places: (1) At the bottom of your paper checks — routing number is first, account number is second. (2) In online banking under Account Details. (3) In the Wells Fargo app under Account Info. (4) On your account statement.
+
+=== FEES AND CHARGES ===
+
+Q: How do I avoid the monthly service fee?
+A: For Everyday Checking, the $10 monthly fee is waived if you: maintain a $500 minimum daily balance, OR receive $500 or more in qualifying direct deposits per month, OR are 17-24 years old (student waiver), OR link a Wells Fargo Campus Card. For other account types, fee waiver requirements vary — check your account terms.
+
+Q: What are Wells Fargo's ATM fees?
+A: Wells Fargo ATMs are free for all Wells Fargo customers. For non-Wells Fargo ATMs, there is a $2.50 fee per transaction. The non-Wells Fargo ATM operator may also charge their own fee. Some premium accounts reimburse ATM fees. There are over 11,000 Wells Fargo ATMs nationwide — use the ATM locator in the app to find the nearest one.
+
+Q: What is the overdraft fee?
+A: Wells Fargo charges a $35 overdraft fee per transaction, with a maximum of 3 fees per day ($105). You can avoid overdraft fees by: enrolling in overdraft protection (links to savings account), choosing Clear Access Banking (no overdraft fees), setting up low balance alerts, or opting out of overdraft coverage for debit card transactions.
+
+=== WELLS ARC SPECIFIC ===
+
+Q: What is Wells Arc?
+A: Wells Arc is Wells Fargo's AI-powered financial safety and support system, built directly into your online banking portal. It has two main features: (1) Smart Monitor — a real-time transaction dashboard that flags suspicious activity with a red/yellow/green system and lets you take immediate action. (2) AI Assistant — a 24/7 conversational assistant that can answer any banking question and connect you with human support when needed.
+
+Q: How does the Smart Monitor work?
+A: The Smart Monitor shows all your recent transactions with color-coded flags: Red means the transaction is suspicious or unauthorized — you can stop it or mark it as unauthorized immediately. Yellow means the transaction is above your personal alert threshold — it may be legitimate but warrants your attention. Green means the transaction is normal and clear. You can set your own threshold in the Smart Monitor settings.
+
+Q: What can the Wells Arc AI Assistant help me with?
+A: The Wells Arc AI Assistant can help with: answering questions about your account, explaining flagged transactions, guiding you through disputes, providing information on Wells Fargo products and services, helping you navigate the portal, and answering general banking questions. If the AI can't resolve your issue, it will connect you with a live Wells Fargo agent, schedule a callback at your preferred time, or send you a relevant PDF guide.
+
+Q: Is my data safe with Wells Arc?
+A: Yes. Wells Arc operates entirely within Wells Fargo's secure banking infrastructure. All data is encrypted, no conversation data is stored beyond your session, and the AI never has access to your full account credentials or card numbers. Wells Arc complies with all federal banking regulations including GLBA and FFIEC guidelines. Human agents are always available and all AI decisions are explainable and auditable.
