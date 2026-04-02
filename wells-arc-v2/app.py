@@ -32,7 +32,7 @@ st.set_page_config(
     page_title="Wells Arc",
     page_icon="🏦",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
 )
 
 # Global CSS — styling only, no content divs
@@ -86,7 +86,11 @@ header {visibility: hidden;}
 
 /* Sidebar */
 [data-testid="stSidebar"] { background: #F8F9FA; }
+[data-testid="collapsedControl"] { display: none !important; }
+[data-testid="stSidebarCollapseButton"] { display: none !important; }
 [data-testid="stSidebar"] .stMarkdown h2 { color: #8B0000; }
+[data-testid="collapsedControl"] { display: none; }
+button[kind="header"] { display: none !important; }
 </style>
 """, unsafe_allow_html=True)
 
