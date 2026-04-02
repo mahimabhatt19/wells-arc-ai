@@ -85,6 +85,7 @@ def render_threshold_control(customer: dict):
         value=int(customer["alert_threshold"]),
         step=50, format="$%d", key="threshold_slider"
     )
+    st.caption("ℹ️ Threshold changes apply to new transactions only. Existing flagged transactions may take 24–48 hours to reflect your updated preference.")
     if new_threshold != int(customer["alert_threshold"]):
         update_threshold(customer["id"], new_threshold)
         st.session_state.customer["alert_threshold"] = float(new_threshold)
