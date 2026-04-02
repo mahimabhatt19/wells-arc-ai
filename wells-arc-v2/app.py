@@ -13,6 +13,21 @@ from components.chat import render_assistant
 
 load_dotenv()
 
+# Auto-seed database if it doesn't exist (required for Streamlit Cloud)
+DB_PATH = os.path.join(os.path.dirname(__file__), "database", "wells_arc.db")
+if not os.path.exists(DB_PATH):
+    from database.seed_data import seed_database
+    seed_database()
+# ```
+
+# ---
+
+# **Change 2 — `.gitignore`**
+
+# Find and delete this line:
+# ```
+# database/wells_arc.db
+
 st.set_page_config(
     page_title="Wells Arc",
     page_icon="🏦",

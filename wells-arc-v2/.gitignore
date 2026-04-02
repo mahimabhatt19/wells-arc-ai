@@ -3,7 +3,7 @@
 *.env
 
 # Database (don't commit real data)
-database/wells_arc.db
+# database/wells_arc.db
 
 # ML model files (regenerated on run)
 anomaly/isolation_forest.pkl
